@@ -140,6 +140,29 @@ input{
   width: 200px;
 }
 }
+/*...contact us...*/
+.jar{
+    text-align: center;
+}
+input{
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 800px;
+    text-align: center;
+    margin-left: 250px;
+}
+
+/*...about us...*/
+.main{
+    text-align: center;
+    
+}
+.main h2{
+    font-weight: bold; 
+    font-style: italic;
+}
 @media(min-width:800px){
 body{
     background: rgb(214, 204, 206);
@@ -226,3 +249,27 @@ footer{
 
 
 }
+/*...contact us...*/
+.jar{
+    text-align: center;
+}
+input{
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 800px;
+    text-align: center;
+    margin-left: 250px;
+}
+
+/*...about us...*/
+.main{
+    text-align: center;
+    
+}
+.main h2{
+    font-weight: bold; 
+    font-style: italic;
+}
+
